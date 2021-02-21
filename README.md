@@ -55,3 +55,7 @@ We have learned how to use the Discord.py API and use sqlite3 to manage a databa
 We are planning to build it as a **mobile-app** with more features like:
 - tracking the user progress  for every challenge 
 - collecting points 
+## Tech Stack
+ - Python 3.x
+ - discordpy
+ - API
